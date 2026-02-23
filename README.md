@@ -83,14 +83,6 @@
 
 ---
 
-### 🏆 Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrankieeW&theme=flat&title_color=4C9B6F&text_color=555&bg_color=ffffff00&no_frame=true&column=-1" alt="Trophy" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FrankieeW&label=Profile%20Views&color=4C9B6F&style=flat" alt="Profile Views" />
 </p>
