@@ -47,7 +47,8 @@
 |----------|-------|
 | 🔬 **Theorem Proving** | <img src="https://img.shields.io/badge/Lean_4-4C9B6F?style=flat&logo=leanpub" alt="Lean 4"/> <img src="https://img.shields.io/badge/Mathlib-4C9B6F?style=flat" alt="Mathlib"/> |
 | 📝 **Typesetting** | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat" alt="LaTeX"/> <img src="https://img.shields.io/badge/Typst-ffffff?style=flat&logoColor=333" alt="Typst"/> |
-| 💻 **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby"/> |
+| 💻 **Proficient** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby"/> |
+| 📚 **Familiar** | <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/MATLAB-1676A1?style=flat&logo=MATLAB&logoColor=white" alt="MATLAB"/> |
 | 🛠️ **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/> <img src="https://img.shields.io/badge/OpenCode-ffffff?style=flat&logoColor=333" alt="OpenCode"/> |
 
 </details>
@@ -59,9 +60,7 @@
 <details>
 <summary><b>Click to expand</b></summary>
 
-- 🧮 Formalizing mathematical proofs in Lean 4
-- 📚 Maintaining lecture notes and academic resources
-- 🔧 Building tools for theorem proving workflows
+- 🧮 Formalizing in Lean 4 about ANT
 
 </details>
 
