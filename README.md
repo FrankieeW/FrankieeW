@@ -1,44 +1,94 @@
-<h1 align="center">Hi, I'm Frankie 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=4C9B6F&center=true&vCenter=true&width=435&lines=Hi,+I'm+Frankie+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <em>Mathematics • Formal Verification • Lean 4</em>
-</p>
-
-<p align="center">
-  <a href="https://frankie.wang">🌐 Website</a>
+  <a href="https://frankie.wang">
+    <img src="https://img.shields.io/badge/🌐_Website-frankie.wang-4C9B6F?style=for-the-badge&logo=world&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://twitter.com/FrankieeW">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <img src="https://img.shields.io/badge/📍_London-4C9B6F?style=for-the-badge" alt="Location" />
 </p>
 
 ---
 
-### 🎓 About
+### 🎓 About Me
 
-Mathematics enthusiast exploring **formal verification** and **algebraic geometry**. Currently diving deep into theorem proving with **Lean 4**.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=FrankieeW&show_icons=true&hide_border=true&title_color=333&text_color=555&icon_color=4C9B6F&bg_color=ffffff00" height="180" alt="stats" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankieeW&layout=compact&hide_border=true&title_color=333&text_color=555&bg_color=ffffff00" height="180" alt="languages" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-📍 London, UK
+<p align="center">
+  <em>Mathematics enthusiast exploring <b>formal verification</b> and <b>algebraic geometry</b></em>
+</p>
+
+<p align="center">
+  🔬 Currently diving deep into theorem proving with <b>Lean 4</b>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
+
 <details>
-<summary>Click to expand</summary>
+<summary><b>Click to expand</b></summary>
+
 | Category | Tools |
 |----------|-------|
-| **Theorem Proving** | Lean 4, Mathlib |
-| **Typesetting** | LaTeX, Typst |
-| **Languages** | Python, Shell, Ruby |
-| **Tools** | Git, Neovim, OpenCode |
+| 🔬 **Theorem Proving** | <img src="https://img.shields.io/badge/Lean_4-4C9B6F?style=flat&logo=leanpub" alt="Lean 4"/> <img src="https://img.shields.io/badge/Mathlib-4C9B6F?style=flat" alt="Mathlib"/> |
+| 📝 **Typesetting** | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat" alt="LaTeX"/> <img src="https://img.shields.io/badge/Typst-ffffff?style=flat&logoColor=333" alt="Typst"/> |
+| 💻 **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby"/> |
+| 🛠️ **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/> <img src="https://img.shields.io/badge/OpenCode-ffffff?style=flat&logoColor=333" alt="OpenCode"/> |
+
 </details>
 
 ---
 
-
 ### 📝 Current Focus
+
 <details>
-<summary>Click to expand</summary>
+<summary><b>Click to expand</b></summary>
+
 - 🧮 Formalizing mathematical proofs in Lean 4
-- 📚 Maintaining lecture notes and academic resources
+- 📚 Maintaining lecture notes and academic resources  
 - 🔧 Building tools for theorem proving workflows
+
 </details>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankieeW&bg_color=ffffff00&color=4C9B6F&line=4C9B6F&point=4C9B6F&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🏆 Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FrankieeW&theme=flat&title_color=4C9B6F&text_color=555&bg_color=ffffff00&no_frame=true&column=-1" alt="Trophy" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FrankieeW&label=Profile%20Views&color=4C9B6F&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
