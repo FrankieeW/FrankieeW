@@ -18,27 +18,20 @@
 ---
 
 ### 🎓 About Me
-<table>
-  <tr>
-    <td valign="top">
-      <h4>🎓 Education</h4>
-      <ul>
-        <li><b>Imperial College London</b><br/><em>MSc Pure Mathematics</em> <span style="color:#4C9B6F">2025-Present</span></li>
-        <li><b>University of Leicester</b><br/><em>BSc Mathematics</em> <span style="color:#4C9B6F">2021-2025</span></li>
-        <li><b>大连理工大学(Dalian University of Technology)</b><br/><em>数理基础科学(Science of Mathematics and Physics)</em> <span style="color:#4C9B6F">2021-2025</span></li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h4>🔬 Research Interests</h4>
-      <ul>
-        <li>Algebraic Number Theory</li>
-        <li>Algebraic Geometry</li>
-        <li>Formalization of Mathematics</li>
-        <li>Mathematical Physics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h4>🎓 Education</h4>
+<ul>
+  <li><b>Imperial College London</b><br/><em>MSc Pure Mathematics</em> <span style="color:#4C9B6F">2025-Present</span></li>
+  <li><b>University of Leicester</b><br/><em>BSc Mathematics</em> <span style="color:#4C9B6F">2021-2025</span></li>
+  <li><b>大连理工大学 (Dalian University of Technology)</b><br/><em>数理基础科学 (Science of Mathematics and Physics)</em> <span style="color:#4C9B6F">2021-2025</span></li>
+</ul>
+
+<h4>🔬 Research Interests</h4>
+<ul>
+  <li>Algebraic Number Theory</li>
+  <li>Algebraic Geometry</li>
+  <li>Formalization of Mathematics</li>
+  <li>Mathematical Physics</li>
+</ul>
 
 <p align="center">
   <em>Mathematics enthusiast exploring <b>formal verification</b> and <b>algebraic geometry</b></em>
@@ -78,7 +71,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankieeW&bg_color=ffffff00&color=4C9B6F&line=4C9B6F&point=4C9B6F&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankieeW&bg_color=f0&color=4C9B6F&line=4C9B6F&point=4C9B6F&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
