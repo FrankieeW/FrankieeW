@@ -19,33 +19,29 @@ Mathematics enthusiast exploring **formal verification** and **algebraic geometr
 ---
 
 ### 🛠️ Tech Stack
-
+<details>
+<summary>Click to expand</summary>
 | Category | Tools |
 |----------|-------|
 | **Theorem Proving** | Lean 4, Mathlib |
 | **Typesetting** | LaTeX, Typst |
 | **Languages** | Python, Shell, Ruby |
 | **Tools** | Git, Neovim, OpenCode |
+</details>
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FrankieeW&show_icons=true&hide_border=true&title_color=333&text_color=555&icon_color=4C9B6F" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankieeW&layout=compact&hide_border=true&title_color=333&text_color=555" alt="languages"/>
-</p>
-
----
 
 ### 📝 Current Focus
-
+<details>
+<summary>Click to expand</summary>
 - 🧮 Formalizing mathematical proofs in Lean 4
 - 📚 Maintaining lecture notes and academic resources
 - 🔧 Building tools for theorem proving workflows
+</details>
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <sub>✨ "Mathematics is not about numbers, equations, or algorithms: it is about understanding." — William Paul Thurston</sub>
-</p>
+</p> -->
