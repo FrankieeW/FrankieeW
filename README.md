@@ -23,18 +23,18 @@
     <td valign="top">
       <h4>🎓 Education</h4>
       <ul>
-        <li><b>Imperial College London</b><br/><em>MSc Mathematics</em> <span style="color:#4C9B6F">2024-2025</span></li>
-        <li><b>University of Leicester</b><br/><em>BSc Mathematics</em> <span style="color:#4C9B6F">2021-2024</span></li>
-        <li><b>Dalian University of Technology</b><br/><em>Mathematics & Physics</em> <span style="color:#4C9B6F">2020-2021</span></li>
+        <li><b>Imperial College London</b><br/><em>MSc Pure Mathematics</em> <span style="color:#4C9B6F">2025-Present</span></li>
+        <li><b>University of Leicester</b><br/><em>BSc Mathematics</em> <span style="color:#4C9B6F">2021-2025</span></li>
+        <li><b>Dalian University of Technology</b><br/><em>Mathematics & Physics</em> <span style="color:#4C9B6F">2021-2025</span></li>
       </ul>
     </td>
     <td valign="top">
       <h4>🔬 Research Interests</h4>
       <ul>
-        <li>Formal Verification</li>
-        <li>Type Theory</li>
+        <li>Algebraic Number Theory</li>
         <li>Algebraic Geometry</li>
-        <li>Homotopy Type Theory</li>
+        <li>Formalization of Mathematics</li>
+        <li>Mathematical Physics</li>
       </ul>
     </td>
   </tr>
