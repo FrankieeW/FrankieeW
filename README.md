@@ -21,8 +21,7 @@
 <h4>🎓 Education</h4>
 <ul>
   <li><b>Imperial College London</b><br/><em>MSc Pure Mathematics</em> <span style="color:#4C9B6F">2025-Present</span></li>
-  <li><b>University of Leicester</b><br/><em>BSc Mathematics</em> <span style="color:#4C9B6F">2021-2025</span></li>
-  <li><b>大连理工大学 (Dalian University of Technology)</b><br/><em>数理基础科学 (Science of Mathematics and Physics)</em> <span style="color:#4C9B6F">2021-2025</span></li>
+  <li><b>University of Leicester</b> <em>+</em> <b>大连理工大学</b>(Dalian University of Technology)<br/><em>BSc Mathematics (Dual Degree Programme)</em> <span style="color:#4C9B6F">2021-2025</span><br/><span style="color:#888">• Leicester: Mathematics | DUT: 数理基础科学(Mathematics & Physics)</span></li>
 </ul>
 
 <h4>🔬 Research Interests</h4>
