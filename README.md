@@ -9,9 +9,9 @@
   <a href="https://frankie.wang">
     <img src="https://img.shields.io/badge/🌐_Website-frankie.wang-4C9B6F?style=for-the-badge&logo=world&logoColor=white" alt="Website" />
   </a>
-  <!-- <a href="https://twitter.com/FrankieeW">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a> -->
+  <!-- instagram -->
+  <a href="https://www.instagram.com/frankiefcw/">
+    <img src="https://img.shields.io/badge/frankiefcw-4C9B6F?style=for-the-badge&logo=instagram&logoColor=white" alt="frankiefcw" />
   <img src="https://img.shields.io/badge/📍_London-4C9B6F?style=for-the-badge" alt="Location" />
 </p>
 
@@ -66,7 +66,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankieeW&bg_color=ffffff&color=4C9B6F&line=4C9B6F&point=4C9B6F&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankieeW&bg_color=ffffff00&color=4C9B6F&line=4C9B6F&point=4C9B6F&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ### 🏆 Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrankieeW&theme=flat&title_color=4C9B6F&text_color=555&bg_color=ffffff&no_frame=true&column=-1" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FrankieeW&theme=flat&title_color=4C9B6F&text_color=555&bg_color=ffffff00&no_frame=true&column=-1" alt="Trophy" />
 </p>
 
 ---
@@ -84,7 +84,3 @@
 </p>
 
 ---
-
-<!-- <p align="center">
-  <sub>✨ "Mathematics is not about numbers, equations, or algorithms: it is about understanding." — William Paul Thurston</sub>
-</p> -->
