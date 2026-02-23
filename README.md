@@ -18,21 +18,33 @@
 ---
 
 ### 🎓 About Me
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankieeW&show_icons=true&hide_border=true&title_color=333&text_color=555&icon_color=4C9B6F" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankieeW&layout=compact&hide_border=true&title_color=333&text_color=555" height="180" alt="languages" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <h4>🎓 Education</h4>
+      <ul>
+        <li><b>Imperial College London</b><br/><em>MSc Mathematics</em> <span style="color:#4C9B6F">2024-2025</span></li>
+        <li><b>University of Leicester</b><br/><em>BSc Mathematics</em> <span style="color:#4C9B6F">2021-2024</span></li>
+        <li><b>Dalian University of Technology</b><br/><em>Mathematics & Physics</em> <span style="color:#4C9B6F">2020-2021</span></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h4>🔬 Research Interests</h4>
+      <ul>
+        <li>Formal Verification</li>
+        <li>Type Theory</li>
+        <li>Algebraic Geometry</li>
+        <li>Homotopy Type Theory</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <em>Mathematics enthusiast exploring <b>formal verification</b> and <b>algebraic geometry</b></em>
 </p>
 
-<p align="center">
-  🔬 Currently diving deep into theorem proving with <b>Lean 4</b>
-</p>
 
----
 
 ### 🛠️ Tech Stack
 
