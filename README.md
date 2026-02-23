@@ -1,3 +1,5 @@
+
+---
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=4C9B6F&center=true&vCenter=true&width=435&lines=Hi,+I'm+Frankie+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
@@ -63,7 +65,7 @@
 <summary><b>Click to expand</b></summary>
 
 - 🧮 Formalizing mathematical proofs in Lean 4
-- 📚 Maintaining lecture notes and academic resources  
+- 📚 Maintaining lecture notes and academic resources
 - 🔧 Building tools for theorem proving workflows
 
 </details>
