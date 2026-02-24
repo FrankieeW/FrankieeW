@@ -92,9 +92,8 @@ Proficiency
 <!-- Skills Matrix: table-disguised scatter + direct scatter (comparison) -->
 
 <p align="center">
-<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:920px;">
+<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:800px;">
   <colgroup>
-    <!-- <col style="width:120px;"/> -->
     <col style="width:160px;"/>
     <col style="width:160px;"/>
     <col style="width:160px;"/>
@@ -102,10 +101,9 @@ Proficiency
     <col style="width:160px;"/>
   </colgroup>
   <tr>
-    <th colspan="6" style="border:none;color:#4C9B6F;font-size:11px;padding:0 6px;width:920px;min-width:920px;max-width:920px;">← Proficiency →</th>
+    <th colspan="5" style="border:none;color:#4C9B6F;font-size:11px;padding:0 6px;width:800px;min-width:800px;max-width:800px;">← Proficiency →</th>
   </tr>
   <tr>
-    <!-- <th style="border:none;"></th> -->
     <th style="border:none;color:#6b7280;font-size:11px;">○</th>
     <th style="border:none;color:#6b7280;font-size:11px;">◔</th>
     <th style="border:none;color:#6b7280;font-size:11px;">◑</th>
@@ -113,7 +111,6 @@ Proficiency
     <th style="border:none;color:#4C9B6F;font-size:11px;">●</th>
   </tr>
   <tr style="height:72px;">
-    <td style="border:none;"></td>
     <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
     <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/></td>
     <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/><br/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/><br/><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/><br/><img src="https://img.shields.io/badge/MATLAB-1676A1?style=flat&logo=MATLAB&logoColor=white" alt="MATLAB"/><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></td>
