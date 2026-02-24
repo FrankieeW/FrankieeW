@@ -94,7 +94,7 @@ Proficiency
 <p align="center">
 <table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:920px;">
   <colgroup>
-    <col style="width:120px;"/>
+    <!-- <col style="width:120px;"/> -->
     <col style="width:160px;"/>
     <col style="width:160px;"/>
     <col style="width:160px;"/>
@@ -105,7 +105,7 @@ Proficiency
     <th colspan="6" style="border:none;color:#4C9B6F;font-size:11px;padding:0 6px;width:920px;min-width:920px;max-width:920px;">← Proficiency →</th>
   </tr>
   <tr>
-    <th style="border:none;"></th>
+    <!-- <th style="border:none;"></th> -->
     <th style="border:none;color:#6b7280;font-size:11px;">○</th>
     <th style="border:none;color:#6b7280;font-size:11px;">◔</th>
     <th style="border:none;color:#6b7280;font-size:11px;">◑</th>
