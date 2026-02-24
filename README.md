@@ -106,11 +106,11 @@ Proficiency
   </tr>
   <tr>
     <th style="border:none;"></th>
-    <th style="border:none;color:#6b7280;font-size:11px;">Learning</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">Developing</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">Practical</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">Proficient</th>
-    <th style="border:none;color:#4C9B6F;font-size:11px;">Expert</th>
+    <th style="border:none;color:#6b7280;font-size:11px;">○</th>
+    <th style="border:none;color:#6b7280;font-size:11px;">◔</th>
+    <th style="border:none;color:#6b7280;font-size:11px;">◑</th>
+    <th style="border:none;color:#6b7280;font-size:11px;">◕</th>
+    <th style="border:none;color:#4C9B6F;font-size:11px;">●</th>
   </tr>
   <tr style="height:72px;">
     <td style="border:none;"></td>
