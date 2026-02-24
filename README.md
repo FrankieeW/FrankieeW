@@ -92,7 +92,7 @@ Proficiency
 <!-- Skills Matrix: table-disguised scatter + direct scatter (comparison) -->
 
 <p align="center">
-<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:180px;">
+<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:920px;">
   <colgroup>
     <col style="width:120px;"/>
     <col style="width:160px;"/>
@@ -100,42 +100,24 @@ Proficiency
     <col style="width:160px;"/>
     <col style="width:160px;"/>
     <col style="width:160px;"/>
-    <col style="width:160px;"/>
-    <col style="width:160px;"/>
-    <col style="width:160px;"/>
-    <col style="width:160px;"/>
-    <col style="width:160px;"/>
-    <col style="width:160px;"/>
   </colgroup>
   <tr>
-    <th colspan="12" style="border:none;color:#4C9B6F;font-size:11px;padding:0 6px;width:1880px;min-width:1880px;max-width:1880px;">← Proficiency →</th>
+    <th colspan="6" style="border:none;color:#4C9B6F;font-size:11px;padding:0 6px;width:920px;min-width:920px;max-width:920px;">← Proficiency →</th>
   </tr>
   <tr>
     <th style="border:none;"></th>
-    <th style="border:none;color:#6b7280;font-size:11px;">0</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">1</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">2</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">3</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">4</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">5</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">6</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">7</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">8</th>
-    <th style="border:none;color:#6b7280;font-size:11px;">9</th>
-    <th style="border:none;color:#4C9B6F;font-size:11px;">10</th>
+    <th style="border:none;color:#6b7280;font-size:11px;">Learning</th>
+    <th style="border:none;color:#6b7280;font-size:11px;">Developing</th>
+    <th style="border:none;color:#6b7280;font-size:11px;">Practical</th>
+    <th style="border:none;color:#6b7280;font-size:11px;">Proficient</th>
+    <th style="border:none;color:#4C9B6F;font-size:11px;">Expert</th>
   </tr>
   <tr style="height:72px;">
     <td style="border:none;"></td>
     <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
-    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
-    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
-    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
     <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/></td>
-    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/><br/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></td>
-    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/><br/><img src="https://img.shields.io/badge/MATLAB-1676A1?style=flat&logo=MATLAB&logoColor=white" alt="MATLAB"/><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/><br/><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/></td>
-    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></td>
-    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/><br/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/><br/><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/><br/><img src="https://img.shields.io/badge/MATLAB-1676A1?style=flat&logo=MATLAB&logoColor=white" alt="MATLAB"/><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/><br/><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></td>
     <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
   </tr>
 </table>
