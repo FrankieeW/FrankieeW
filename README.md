@@ -127,9 +127,9 @@ Proficiency
 
 | Category | Tools |
 |----------|-------|
-| 🔬 **Formalization** | <img src="https://img.shields.io/badge/Lean_4-4C9B6F?style=flat&logo=leanpub" alt="Lean 4"/> <img src="https://img.shields.io/badge/Mathlib-4C9B6F?style=flat" alt="Mathlib"/> |
+| 🔬 **Formalization** | <img src="https://img.shields.io/badge/Lean-4-1F5CFF?style=flat&logo=leanpub&logoColor=white" alt="Lean 4"/> <img src="https://img.shields.io/badge/Mathlib-4C9B6F?style=flat" alt="Mathlib"/> |
 | 📝 **Typesetting** | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/> <img src="https://img.shields.io/badge/Typst-ffffff?style=flat&logoColor=333" alt="Typst"/> |
-| 🛠️ **Dev Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/> <img src="https://img.shields.io/badge/OpenCode-ffffff?style=flat&logo=claude&logoColor=333" alt="OpenCode"/> |
+| 🛠️ **Dev Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/> <img src="https://img.shields.io/badge/OpenCode-ffffff?style=flat&logo=claude&logoColor=333" alt="OpenCode"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/> |
 
 </details>
 
