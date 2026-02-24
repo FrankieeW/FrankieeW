@@ -90,7 +90,7 @@ Proficiency
 <!-- Skills Matrix: table-disguised scatter + direct scatter (comparison) -->
 
 <p align="center">
-<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;">
+<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:1880px;">
   <colgroup>
     <col style="width:120px;"/>
     <col style="width:160px;"/>
@@ -106,7 +106,7 @@ Proficiency
     <col style="width:160px;"/>
   </colgroup>
   <tr>
-    <th colspan="12" style="border:none;color:#4C9B6F;font-size:11px;padding:0 6px;">← Proficiency →</th>
+    <th colspan="12" style="border:none;color:#4C9B6F;font-size:11px;padding:0 6px;width:1880px;min-width:1880px;max-width:1880px;">← Proficiency →</th>
   </tr>
   <tr>
     <th style="border:none;"></th>
