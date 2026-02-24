@@ -1,6 +1,3 @@
-
----
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=4C9B6F&center=true&vCenter=true&width=435&lines=Hi,+I'm+Frankie+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
@@ -17,7 +14,9 @@
 
 ---
 
-### 🎓 About Me
+<details>
+<summary><b>🎓 About Me</b></summary>
+
 <h4>🎓 Education</h4>
 <ul>
   <li><b>Imperial College London</b><br/><em>MSc Pure Mathematics</em> <span style="color:#4C9B6F">2025-Present</span></li>
@@ -36,9 +35,12 @@
   <em>Mathematics enthusiast exploring <b>formal verification</b> and <b>algebraic geometry</b></em>
 </p>
 
+</details>
 
 
-### 🛠️ Tech Stack
+
+<details>
+<summary><b>🛠️ Tech Stack</b></summary>
 
 <h4>💻 Programming Skills</h4>
 
@@ -90,7 +92,7 @@ Proficiency
 <!-- Skills Matrix: table-disguised scatter + direct scatter (comparison) -->
 
 <p align="center">
-<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:1880px;">
+<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;width:180px;">
   <colgroup>
     <col style="width:120px;"/>
     <col style="width:160px;"/>
@@ -150,12 +152,12 @@ Proficiency
 | 📝 **Typesetting** | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/> <img src="https://img.shields.io/badge/Typst-ffffff?style=flat&logoColor=333" alt="Typst"/> |
 | 🛠️ **Dev Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/> <img src="https://img.shields.io/badge/OpenCode-ffffff?style=flat&logo=claude&logoColor=333" alt="OpenCode"/> |
 
+</details>
+
 ---
 
-### 📝 Current Focus
-
 <details>
-<summary><b>Click to expand</b></summary>
+<summary><b>📝 Current Focus</b></summary>
 
 - 🧮 Formalizing in Lean 4 about ANT
 
@@ -163,11 +165,14 @@ Proficiency
 
 ---
 
-### 📈 Activity Graph
+<details>
+<summary><b>📈 Activity Graph</b></summary>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankieeW&bg_color=f0&color=4C9B6F&line=4C9B6F&point=4C9B6F&hide_border=true" alt="Activity Graph" />
 </p>
+
+</details>
 
 ---
 
