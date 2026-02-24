@@ -40,18 +40,97 @@
 
 ### 🛠️ Tech Stack
 
-<details>
-<summary><b>Click to expand</b></summary>
+<h4>💻 Programming Skills</h4>
+
+<!--
+```text
+Python    ████████████████████ 100%
+R         █████████████████░░░  90%
+Shell     █████████████████░░░  90%
+MATLAB    ██████████████░░░░░░  70%
+Java      ██████████████░░░░░░  70%
+JavaScript████████████░░░░░░░░  60%
+Go        ████████████░░░░░░░░  50%
+C/C++     ███████████░░░░░░░░░  45%
+Rust      ██████░░░░░░░░░░░░░░  25%
+```
+-->
+
+<!-- 
+```text
+Proficiency
+  High │                                   Python
+       │
+       │                  R                 Shell
+       │
+   Med │    MATLAB               Java
+       │                                 JavaScript
+       │
+       │          C/C++          Go
+   Low │                                         Rust
+       └──────────────────────────────────────────────→ Recency
+           Past            Occasional        Frequent
+``` -->
+
+
+
+
+<!-- Skills Matrix: table-disguised scatter + direct scatter (comparison) -->
+
+<p align="center">
+<table style="border-collapse:collapse;border-spacing:0;table-layout:fixed;">
+  <colgroup>
+    <col style="width:96px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+    <col style="width:180px;"/>
+  </colgroup>
+  <tr>
+    <th style="border:none;"></th>
+    <th style="border:none;color:#6b7280;font-size:11px;">Learning</th>
+    <th style="border:none;color:#6b7280;font-size:11px;"></th>
+    <th style="border:none;color:#6b7280;font-size:11px;"></th>
+    <th style="border:none;color:#6b7280;font-size:11px;"></th>
+    <th style="border:none;color:#6b7280;font-size:11px;"></th>
+    <th style="border:none;color:#6b7280;font-size:11px;"></th>
+    <th style="border:none;color:#6b7280;font-size:11px;"></th>
+    <th style="border:none;color:#6b7280;font-size:11px;"></th>
+    <th style="border:none;color:#6b7280;font-size:11px;"></th>
+    <th style="border:none;color:#4C9B6F;font-size:11px;">High</th>
+  </tr>
+  <tr style="height:72px;">
+    <th style="border:none;color:#4C9B6F;font-size:11px;padding-right:8px;">Proficiency →</th>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/MATLAB-1676A1?style=flat&logo=MATLAB&logoColor=white" alt="MATLAB"/></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/></td>
+    <td style="border:1px dashed #e5e7eb;padding:10px 8px;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></td>
+  </tr>
+</table>
+</p>
+
+
+
+
+<h4>🔬 Tools & Others</h4>
 
 | Category | Tools |
 |----------|-------|
-| 🔬 **Theorem Proving** | <img src="https://img.shields.io/badge/Lean_4-4C9B6F?style=flat&logo=leanpub" alt="Lean 4"/> <img src="https://img.shields.io/badge/Mathlib-4C9B6F?style=flat" alt="Mathlib"/> |
-| 📝 **Typesetting** | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat" alt="LaTeX"/> <img src="https://img.shields.io/badge/Typst-ffffff?style=flat&logoColor=333" alt="Typst"/> |
-| 💻 **Proficient** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby"/> |
-| 📚 **Familiar** | <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/MATLAB-1676A1?style=flat&logo=MATLAB&logoColor=white" alt="MATLAB"/> |
-| 🛠️ **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/> <img src="https://img.shields.io/badge/OpenCode-ffffff?style=flat&logoColor=333" alt="OpenCode"/> |
-
-</details>
+| 🔬 **Formalization** | <img src="https://img.shields.io/badge/Lean_4-4C9B6F?style=flat&logo=leanpub" alt="Lean 4"/> <img src="https://img.shields.io/badge/Mathlib-4C9B6F?style=flat" alt="Mathlib"/> |
+| 📝 **Typesetting** | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/> <img src="https://img.shields.io/badge/Typst-ffffff?style=flat&logoColor=333" alt="Typst"/> |
+| 🛠️ **Dev Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/> <img src="https://img.shields.io/badge/OpenCode-ffffff?style=flat&logo=claude&logoColor=333" alt="OpenCode"/> |
 
 ---
 
